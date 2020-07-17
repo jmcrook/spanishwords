@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <strobe/
+        <strobe/>
       </header>
     </div>
   );
@@ -16,7 +16,8 @@ class strobe extends React.Component {
    render() {
      return (
        <p>yol</p>
-     )
+     );
    }
  }
+
 export default App;
