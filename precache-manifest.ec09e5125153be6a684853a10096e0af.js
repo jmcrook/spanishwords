@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "281134fa58768ff3f6dd692f503aa7d9",
+    "revision": "76ac7c99835fab235881c218439feb93",
     "url": "/spanishwords/index.html"
   },
   {
-    "revision": "d4797d5632b145f22674",
+    "revision": "62f2d1ae7caeed5be25b",
     "url": "/spanishwords/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spanishwords/static/js/2.76bd3128.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4797d5632b145f22674",
-    "url": "/spanishwords/static/js/main.8f800d8d.chunk.js"
+    "revision": "62f2d1ae7caeed5be25b",
+    "url": "/spanishwords/static/js/main.35247a11.chunk.js"
   },
   {
     "revision": "cbf86467697e7961eb04",
