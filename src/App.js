@@ -5,14 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <strobe/>
+        <Strobe/>
       </header>
     </div>
   );
 }
 
 
-class strobe extends React.Component {
+class Strobe extends React.Component {
    render() {
      return (
        <p>yol</p>
